@@ -1,0 +1,2 @@
+# madchat
+Simple chat application
